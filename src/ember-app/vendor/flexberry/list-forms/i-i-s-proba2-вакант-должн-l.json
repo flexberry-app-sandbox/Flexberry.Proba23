@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba2-вакант-должн-e",
+  "editForm": "i-i-s-proba2-вакант-должн-e",
+  "external": false,
+  "caption": "Вакант должн",
+  "name": "IISProba2ВакантДолжнL",
+  "className": "ВакантДолжнL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba2-вакант-должн",
+      "modelProjection": "ВакантДолжнL"
+    }
+  ]
+}

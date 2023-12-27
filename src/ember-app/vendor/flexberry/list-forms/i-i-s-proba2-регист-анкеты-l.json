@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba2-регист-анкеты-e",
+  "editForm": "i-i-s-proba2-регист-анкеты-e",
+  "external": false,
+  "caption": "Регист анкеты",
+  "name": "IISProba2РегистАнкетыL",
+  "className": "РегистАнкетыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba2-регист-анкеты",
+      "modelProjection": "РегистАнкетыL"
+    }
+  ]
+}

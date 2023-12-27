@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "планирСобес",
+      "displayAttributeName": "иметьПриСебе",
+      "required": true,
+      "relationName": "ТЧГрафСобес.ПланирСобес",
+      "projection": "ПланирСобесL",
+      "detailModelName": "i-i-s-proba2-т-ч-граф-собес"
+    }
+  ],
+  "external": false,
+  "caption": "Граф собес",
+  "name": "IISProba2ГрафСобесE",
+  "className": "ГрафСобесE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba2-граф-собес",
+      "modelProjection": "ГрафСобесE"
+    }
+  ]
+}

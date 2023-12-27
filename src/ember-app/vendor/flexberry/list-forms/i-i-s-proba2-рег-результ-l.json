@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba2-рег-результ-e",
+  "editForm": "i-i-s-proba2-рег-результ-e",
+  "external": false,
+  "caption": "Рег результ",
+  "name": "IISProba2РегРезультL",
+  "className": "РегРезультL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba2-рег-результ",
+      "modelProjection": "РегРезультL"
+    }
+  ]
+}

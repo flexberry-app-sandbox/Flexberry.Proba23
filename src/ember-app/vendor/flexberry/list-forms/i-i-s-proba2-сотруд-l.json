@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba2-сотруд-e",
+  "editForm": "i-i-s-proba2-сотруд-e",
+  "external": false,
+  "caption": "Сотруд",
+  "name": "IISProba2СотрудL",
+  "className": "СотрудL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba2-сотруд",
+      "modelProjection": "СотрудL"
+    }
+  ]
+}
